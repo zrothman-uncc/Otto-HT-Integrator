@@ -2,8 +2,7 @@
 
 A Python-based numerical model for analyzing the Otto cycle, developed to investigate the impact of real-world heat transfer on the thermodynamic efficiency of an internal combustion engine.
 
-![P-V Diagram](image2.png)
-*(Suggestion: Add one of your key result graphs, like the P-v diagram, to the repository and link to it here.)*
+![Tvs.t Diagram](Figure_1.png)
 
 ---
 
